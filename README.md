@@ -1,7 +1,7 @@
-# Basics of Data-SCience
+# Basics of Data-Science
 
 
-DS-1 --- Data Analysis/visualisation with help of numpy,pandas,Matplotlib.
+DS-1 --- Data Analysis/visualisation with help of NumPy,Pandas,Matplotlib.
 
 The repository you’re referring to is a comprehensive resource for data science, with a specific focus on data analysis using Python libraries such as Pandas and NumPy. 
 The repository includes a folder named “Data Analysis with Pandas and NumPy”, which contains a Jupyter notebook dedicated to basic data visualization.
@@ -40,3 +40,26 @@ This repository serves as a comprehensive guide for transforming raw time series
 
 
 \\\\\\\\\\\\\
+
+
+DS-3--- Wheat Variety Clustering and Dimensionality Reduction with KMeans clustering and Principal Component Analysis
+
+This notebook showcases a comprehensive analysis of a dataset containing three distinct varieties of wheat: Kama, Rosa, and Canadian. Our objective is to classify these varieties and reduce the dimensionality of the dataset to enhance the performance of machine learning models.
+
+Repository Contents:
+
+Graphical Plots: Initial exploratory data analysis with visualizations that graphically represent the distribution and characteristics of the Kama, Rosa, and Canadian wheat varieties.
+KMeans Clustering: Implementation of the KMeans clustering algorithm to group the wheat data into clusters, aiming to identify inherent patterns and similarities among the varieties.
+PCA for Dimension Reduction: Application of Principal Component Analysis to reduce the number of variables in the dataset while preserving the essential information, thus simplifying the dataset’s complexity.
+
+Process Overview:
+
+Data Visualization: We begin by plotting the wheat varieties to understand their distribution and to identify any apparent groupings.
+Clustering Analysis: Using KMeans, we segment the dataset into clusters, each representing a potential wheat variety.
+Dimensionality Reduction: PCA is performed to transform the data into a lower-dimensional space, making it more manageable for analysis and visualization.
+
+Outcome: The end result is a structured approach to classifying wheat varieties and a reduced feature set that maintains the core characteristics necessary for accurate machine learning predictions.
+
+\\\\\\\\\\\\\
+
+
