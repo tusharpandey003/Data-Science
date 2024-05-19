@@ -62,4 +62,27 @@ Outcome: The end result is a structured approach to classifying wheat varieties 
 
 \\\\\\\\\\\\\
 
+DS-4 
+
+Buisness Analytics is a jupyternotebook contains the buisness data from year 2009-2010. 
+Data info:
+Column: 
+InvoiceNo - Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. 
+
+StockCode - Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product. 
+
+Description - Product (item) name. Nominal. 
+
+Quantity - The quantities of each product (item) per transaction. Numeric. 
+
+InvoiceDate - Invoice date and time. Numeric. The day and time when a transaction was generated. 
+
+UnitPrice - Unit price. Numeric. Product price per unit in sterling ( £). 
+
+CustomerID- Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
+
+Country - Country name. Nominal. The name of the country where a customer resides.
+
+
+
 
