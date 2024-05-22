@@ -66,7 +66,10 @@ DS-4
 
 Buisness Analytics is a jupyternotebook contains the buisness data from year 2009-2010. 
 Data info:
+
 Column: 
+
+
 InvoiceNo - Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. 
 
 StockCode - Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product. 
